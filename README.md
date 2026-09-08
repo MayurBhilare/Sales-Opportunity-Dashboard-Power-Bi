@@ -79,3 +79,6 @@ Sales-Opportunity-Dashboard/
 │
 ├── README.md
 ├── Sales Opportunity Dashboard.pbix
+└── screenshots/
+    └── Dashboard-Preview.png
+    └── Salesperson_Details.png
